@@ -1,0 +1,61 @@
+body {font-family: Arial, Helvetica, sans-serif; background-color: #3498DB;}
+form {border: 5px solid #3498DB;}
+
+/* Full-width inputs */
+input[type=text], input[type=password], input[type=email] {
+  width: 25%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+/* Set a style for all buttons */
+button{
+  background-color: black;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 25%;
+}
+
+/* Add a hover effect for buttons */
+button:hover {
+  opacity: 0.8;
+}
+
+/* Add padding to containers */
+.container {
+  padding: 25px;
+}
+.form
+{
+  text-align: center;
+  padding-top: 125px;
+}
+.center
+{
+  text-align: center;
+  margin-left: 80px;
+}
+.login
+{
+  background-color: black;
+  color: white;
+  padding: 14px 20px;
+  border: none;
+  cursor: pointer;
+  width: 24%;
+  margin-left: 80px;
+}
+.form h2
+{
+  margin-left: 50px;
+}
+.email
+{
+  margin-left: 50px;
+}
